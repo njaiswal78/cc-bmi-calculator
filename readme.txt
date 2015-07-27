@@ -23,6 +23,21 @@ It can be placed on sidebar as widget or incorporated into post or page using sh
 1. Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Appearance -> Widgets and add the widget to your website sidebar
+OR
+ Use [cc-bmi] short code if you want embed the mortgage calculator into a post instead of adding it as a widget on sidebar.
+
+ Short code parameters are:
+  * title (optional) - sets calculator's title (default - "BMI calculator")
+  * dev_credit (optional) - shows developer's credit (default - "1") 
+  * units (optional) - sets default unit to display. Available options - imperial or metric (default is "imperial")
+  * bg_color (optional) - sets background color (default - "#f8f8f8")
+  * border_color (optional) - sets border color (default - "#ddd")
+  * text_color (optional) - sets text color (default - "#000000")
+  * header_footer_bg_color (optional) - sets header and footer background color (default - "#ddd")
+  * header_footer_text_color (optional) - sets header and footer text color (default - "#000000")
+  * button_bg_color (optional) - sets button background color (default - "#5bc0de")
+  * button_text_color (optional) - sets button text color (default - "#ffffff")
+  * button_border_color (optional) - sets button border color (default - "#46b8da")
 
 == Frequently Asked Questions ==
 
