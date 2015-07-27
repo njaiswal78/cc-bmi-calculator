@@ -28,7 +28,8 @@ OR
 
 Use [cc-bmi] short code if you want embed the mortgage calculator into a post instead of adding it as a widget on sidebar.
 
- Short code parameters are:
+Short code parameters are:
+
   * title (optional) - sets calculator's title (default - "BMI calculator")
   * dev_credit (optional) - shows developer's credit (default - "1") 
   * units (optional) - sets default unit to display. Available options - imperial or metric (default is "imperial")
