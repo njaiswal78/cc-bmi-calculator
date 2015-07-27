@@ -23,8 +23,10 @@ It can be placed on sidebar as widget or incorporated into post or page using sh
 1. Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Appearance -> Widgets and add the widget to your website sidebar
+
 OR
- Use [cc-bmi] short code if you want embed the mortgage calculator into a post instead of adding it as a widget on sidebar.
+
+Use [cc-bmi] short code if you want embed the mortgage calculator into a post instead of adding it as a widget on sidebar.
 
  Short code parameters are:
   * title (optional) - sets calculator's title (default - "BMI calculator")
